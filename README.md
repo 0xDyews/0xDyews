@@ -1,5 +1,5 @@
 # 💫 About Me:
-I build small tools and scripts that solve real problems.<br>Mostly Python, some JS.<br>Everything here is open source and made out of curiosity or need.
+I build small tools and scripts that solve real problems.<br>Mostly Python aswell as C++ and JS.<br>Everything here is open source and made out of curiosity or need.
 
 
 # 💻 Tech Stack:
